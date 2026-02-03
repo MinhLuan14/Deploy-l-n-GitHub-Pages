@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initNavHighlight();
 
     console.log('Chào mừng bạn đến với portfolio của Nguyễn Minh Luân! 👋');
+    alert("Chào mừng bạn đến Portfolio thật trên internet của mình");
 });
 
 function initContactForm() {
